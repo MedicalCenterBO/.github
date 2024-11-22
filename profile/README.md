@@ -7,6 +7,8 @@ Si eres diseñador puedes ver nuestros diseños y participar en figma.
 
 Para saber mas ingresa a la [Wiki](https://github.com/MedicalCenterBO/.github/wiki).
 
+Vititanos en [https://medicalcenter.bo](https://medicalcenter.bo/)
+
 ![Logo CMC CLINICA 1](https://github.com/user-attachments/assets/1c8532eb-86fe-49f3-b079-65513a55b205)
 
 Servisofts Srl.
