@@ -1,12 +1,4 @@
-## Hi there 👋
+## Bienvenido 👋
 
-<!--
+La misión de MedicalCenter es preservar la vida mediante la excelencia en atención médica y fomentar la educación para formar profesionales comprometidos con la salud. Su visión es ser una institución médica de referencia nacional, confiable, innovadora, con infraestructura moderna y un equipo humano altamente calificado.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
