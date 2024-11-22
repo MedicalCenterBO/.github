@@ -9,6 +9,11 @@ Para saber mas ingresa a la [Wiki](https://github.com/MedicalCenterBO/.github/wi
 
 Vititanos en [https://medicalcenter.bo](https://medicalcenter.bo/)
 
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wbzFJqY9ovI/0.jpg)](https://www.youtube.com/watch?v=wbzFJqY9ovI)
+
+
+
 ![Logo CMC CLINICA 1](https://github.com/user-attachments/assets/1c8532eb-86fe-49f3-b079-65513a55b205)
 
 Servisofts Srl.
